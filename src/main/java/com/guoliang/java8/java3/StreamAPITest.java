@@ -1,7 +1,8 @@
 package com.guoliang.java8.java3;
 
-import com.atguigu.java2.Employee;
-import com.atguigu.java2.EmployeeData;
+
+import com.guoliang.java8.java2.Employee;
+import com.guoliang.java8.java2.EmployeeData;
 import org.junit.Test;
 
 import java.util.Arrays;

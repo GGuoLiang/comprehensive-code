@@ -2,15 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fabc019-67e3-43cb-be15-c9f317714884" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/CallThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/Communication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/ThreadMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/ThreadTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/ThreadTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/WindowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/WindowTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java3/StreamAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java3/StreamAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java3/StreamAPITest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java3/StreamAPITest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java3/StreamAPITest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java3/StreamAPITest2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +60,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/ebei/workspace" />
+    <property name="last_opened_file_path" value="$USER_HOME$/note/课件笔记官方/JavaSe/5_代码/第2部分：Java高级编程/JavaSenior" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -52,6 +77,82 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.ThreadPool">
+    <configuration name="CallThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guoliang.thread.CallThreadTest" />
+      <module name="javase-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guoliang.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommunicationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guoliang.thread.CommunicationTest" />
+      <module name="javase-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guoliang.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guoliang.thread.LockTest" />
+      <module name="javase-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guoliang.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guoliang.thread.ProductTest" />
+      <module name="javase-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guoliang.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guoliang.thread.ThreadPool" />
+      <module name="javase-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guoliang.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadPool" />
+        <item itemvalue="Application.CallThreadTest" />
+        <item itemvalue="Application.ProductTest" />
+        <item itemvalue="Application.CommunicationTest" />
+        <item itemvalue="Application.LockTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -62,7 +163,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583673354497</updated>
-      <workItem from="1583673355616" duration="311000" />
+      <workItem from="1583673355616" duration="431000" />
+      <workItem from="1583674331811" duration="360000" />
+      <workItem from="1583757212035" duration="1156000" />
+      <workItem from="1583758604351" duration="6720000" />
     </task>
     <servers />
   </component>
@@ -74,7 +178,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
