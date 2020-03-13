@@ -23,6 +23,8 @@ public class ThreadPool {
         //1. 提供指定线程数量的线程池
         ExecutorService service = Executors.newFixedThreadPool(10);
         ThreadPoolExecutor service1 = (ThreadPoolExecutor) service;
+
+        //ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor(5,10,60l,);
         //设置线程池的属性
 //        System.out.println(service.getClass());
 //        service1.setCorePoolSize(15);
