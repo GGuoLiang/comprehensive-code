@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fabc019-67e3-43cb-be15-c9f317714884" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/date/Java8DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/MyTheadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/ThreadPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/ThreadLocalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/ThreadLocalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/guoliang/thread/NumberThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/guoliang/thread/NumberThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/guoliang/thread/NumberThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/guoliang/thread/NumberThread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/guoliang/thread/ThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/guoliang/thread/ThreadPool.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyTheadPool">
+  <component name="RunManager" selected="Application.ThreadLocalDemo">
     <configuration name="MyTheadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.guoliang.thread.MyTheadPool" />
       <module name="javase-code" />
@@ -79,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.guoliang.thread.ThreadPoolTest" />
+    <configuration name="ThreadLocalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guoliang.thread.ThreadLocalDemo" />
       <module name="javase-code" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadLocalDemo" />
         <item itemvalue="Application.MyTheadPool" />
         <item itemvalue="JUnit.Java8DateTest.updateDateTimeTest" />
         <item itemvalue="JUnit.Java8DateTest.localDateTimeTest" />
         <item itemvalue="JUnit.Java8DateTest.localDateTest" />
-        <item itemvalue="Application.ThreadPoolTest" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +161,8 @@
       <workItem from="1583804185211" duration="1960000" />
       <workItem from="1583889218238" duration="1926000" />
       <workItem from="1583908672145" duration="304000" />
-      <workItem from="1584001563514" duration="2729000" />
+      <workItem from="1584001563514" duration="4745000" />
+      <workItem from="1584084408556" duration="2137000" />
     </task>
     <servers />
   </component>
