@@ -3,6 +3,7 @@ package com.guoliang.datasource;
 import org.junit.Test;
 
 import java.util.HashMap;
+import java.util.Stack;
 
 /**
  * 单链表结构
@@ -149,6 +150,26 @@ public class SingleLinkedList {
             temp = next;
         }
         headNode.next = serverHeadNode.next;
+    }
+
+    /**
+     * 链表的反转打印
+     * 通过的栈的先进后出的特点
+     */
+    public void serverLinkedPrint(){
+        if(headNode.next == null){
+            return;
+        }
+        Node temp = headNode.next;
+        Stack<Node> stack = new Stack<>();
+        while (temp != null){
+            stack.add(temp);
+            temp = temp.next;
+        }
+        for (int i = 0; i < size(); i++) {
+            System.out.println(stack.pop());
+        }
+
     }
 }
 

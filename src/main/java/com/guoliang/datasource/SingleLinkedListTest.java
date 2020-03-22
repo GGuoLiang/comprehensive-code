@@ -19,8 +19,10 @@ public class SingleLinkedListTest {
         System.out.println("倒数节点"+singleLinkedList.getNodeByListIndex(1).toString());
         System.out.println("*********************************");
         System.out.println("链表的长度"+singleLinkedList.size());
-        singleLinkedList.serverLinkedList();
-        singleLinkedList.show();
+       /* singleLinkedList.serverLinkedList();
+        singleLinkedList.show();*/
+        System.out.println("*********************************");
+        singleLinkedList.serverLinkedPrint();
        /* singleLinkedList.delete(21);
         singleLinkedList.show();
         System.out.println("*********************************");

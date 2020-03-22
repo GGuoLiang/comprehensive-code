@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fabc019-67e3-43cb-be15-c9f317714884" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/CircleArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/CircleQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/SingleLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/filter/MyBloomFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/redis/redisLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/sort/example/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/sort/practice/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/test/sortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/thread/CallableThreadTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/SingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/SingleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/SingleLinkedListTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +165,7 @@
       <workItem from="1584594933396" duration="628000" />
       <workItem from="1584669254999" duration="1747000" />
       <workItem from="1584758345986" duration="4761000" />
-      <workItem from="1584794385619" duration="14353000" />
+      <workItem from="1584794385619" duration="14822000" />
     </task>
     <task id="LOCAL-00001" summary="threadLocal">
       <created>1584087892409</created>
