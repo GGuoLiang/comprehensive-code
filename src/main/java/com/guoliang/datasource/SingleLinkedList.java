@@ -154,7 +154,7 @@ public class SingleLinkedList {
 
     /**
      * 链表的反转打印
-     * 通过的栈的先进后出的特点
+     * 通过的栈
      */
     public void serverLinkedPrint(){
         if(headNode.next == null){

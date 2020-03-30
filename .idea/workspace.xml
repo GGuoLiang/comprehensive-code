@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fabc019-67e3-43cb-be15-c9f317714884" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/Java5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/stream/StreamTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/leetcode/offer/Solution03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/singleton/Singleton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/test/JsonArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/test/LongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/test/NumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/SingleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/SingleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guoliang/datasource/SingleLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/redis/redisLockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guoliang/redis/redisLockTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,10 +53,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/note/课件笔记官方/JavaSe/5_代码/第2部分：Java高级编程/JavaSenior" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/guoliang/test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/guoliang/test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -59,73 +75,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SingleLinkedListTest.test">
-    <configuration name="CircleQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.guoliang.datasource.CircleQueueTest" />
+  <component name="RunManager" selected="JUnit.Java5.test1">
+    <configuration name="Java5.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javase-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.guoliang.datasource.*" />
+          <option name="PATTERN" value="com.guoliang.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.guoliang.sort.practice.QuickSort" />
-      <module name="javase-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.guoliang.sort.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.guoliang.test.sortTest" />
-      <module name="javase-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.guoliang.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CircleQueueTest.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javase-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.guoliang.datasource.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.guoliang.datasource" />
-      <option name="MAIN_CLASS_NAME" value="com.guoliang.datasource.CircleQueueTest" />
-      <option name="METHOD_NAME" value="Test1" />
+      <option name="PACKAGE_NAME" value="com.guoliang.java8" />
+      <option name="MAIN_CLASS_NAME" value="com.guoliang.java8.Java5" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleLinkedListTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OptionalTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javase-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.guoliang.datasource.*" />
+          <option name="PATTERN" value="com.guoliang.java8.java4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.guoliang.datasource" />
-      <option name="MAIN_CLASS_NAME" value="com.guoliang.datasource.SingleLinkedListTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.guoliang.java8.java4" />
+      <option name="MAIN_CLASS_NAME" value="com.guoliang.java8.java4.OptionalTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javase-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guoliang.java8.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.guoliang.java8.java4" />
+      <option name="MAIN_CLASS_NAME" value="com.guoliang.java8.java4.OptionalTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPITest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javase-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guoliang.java8.java3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.guoliang.java8.java3" />
+      <option name="MAIN_CLASS_NAME" value="com.guoliang.java8.java3.StreamAPITest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javase-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guoliang.java8.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.guoliang.java8.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.guoliang.java8.stream.StreamTest1" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SingleLinkedListTest.test" />
-        <item itemvalue="Application.CircleQueueTest" />
-        <item itemvalue="JUnit.CircleQueueTest.Test1" />
-        <item itemvalue="Application.sortTest" />
-        <item itemvalue="Application.QuickSort (1)" />
+        <item itemvalue="JUnit.Java5.test1" />
+        <item itemvalue="JUnit.StreamTest1.test1" />
+        <item itemvalue="JUnit.StreamAPITest.test1" />
+        <item itemvalue="JUnit.OptionalTest.test5" />
+        <item itemvalue="JUnit.OptionalTest.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +190,13 @@
       <workItem from="1584594933396" duration="628000" />
       <workItem from="1584669254999" duration="1747000" />
       <workItem from="1584758345986" duration="4761000" />
-      <workItem from="1584794385619" duration="14822000" />
+      <workItem from="1584794385619" duration="17764000" />
+      <workItem from="1585013469225" duration="1812000" />
+      <workItem from="1585045991452" duration="1558000" />
+      <workItem from="1585209546762" duration="733000" />
+      <workItem from="1585274345439" duration="1859000" />
+      <workItem from="1585279339732" duration="8455000" />
+      <workItem from="1585494667732" duration="1626000" />
     </task>
     <task id="LOCAL-00001" summary="threadLocal">
       <created>1584087892409</created>
@@ -209,6 +240,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/guoliang/test/sortTest.java</url>
           <line>30</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/guoliang/java8/java3/StreamAPITest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
