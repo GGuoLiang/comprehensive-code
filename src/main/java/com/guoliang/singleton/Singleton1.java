@@ -5,7 +5,7 @@ package com.guoliang.singleton;
  * @Date 2020/3/24 9:32 上午
  * @Version 1.0
  *
- * 懒汉式
+ * 懒汉式 线程不安全 反射不安全
  *
  */
 public class Singleton1 {
