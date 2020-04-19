@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.guoliang</groupId>
-    <artifactId>javase-code</artifactId>
+    <artifactId>comprehensive-code</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -38,11 +38,22 @@
         </dependency>
 
         <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>28.2-jre</version>
+        </dependency>
+
+        <dependency>
             <groupId>top.crossoverjie.opensource</groupId>
             <artifactId>distributed-redis-lock</artifactId>
             <version>1.0.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.2.5</version>
+        </dependency>
     </dependencies>
 
 
