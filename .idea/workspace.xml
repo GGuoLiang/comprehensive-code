@@ -1,14 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66e7f10d-ade0-4482-87a2-d0a2d464f904" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/algorithm/leetcode/jianzhiOffer/Solution03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/algorithm/leetcode/jianzhioffer/Solution03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/algorithm/nowcoder/huawei/Code1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/algorithm/nowcoder/huawei/Code1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/algorithm/nowcoder/huawei/Code2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/algorithm/nowcoder/huawei/Code2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/algorithm/nowcoder/huawei/Code3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/algorithm/nowcoder/huawei/Code3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/algorithm/nowcoder/huawei/Code4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/algorithm/nowcoder/huawei/Code4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/algorithm/sort/example/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/algorithm/sort/example/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/algorithm/sort/practice/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/algorithm/sort/practice/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/dataStructures/list/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/dataStructures/list/SingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/dataStructures/list/SingleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/dataStructures/list/SingleLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/dataStructures/queue/CircleArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/dataStructures/queue/CircleArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/dataStructures/queue/CircleQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/dataStructures/queue/CircleQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/dataStructures/sparsearray/SparseArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/dataStructures/sparsearray/SparseArray1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/dataStructures/sparsearray/Sparsearray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/dataStructures/sparsearray/Sparsearray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/dataStructures/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/dataStructures/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/dataStructures/tree/TreeNodeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/dataStructures/tree/TreeNodeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/Singleton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/Singleton3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/Singleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/Singleton4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/Singleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/Singleton5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/Singleton6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/Singleton6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/Singleton7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/Singleton7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/Singleton8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/Singleton8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/test/Singleton1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/test/Singleton1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/test/Singleton2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/test/Singleton2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/test/Singleton3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/test/Singleton3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/test/Singleton7Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/test/Singleton7Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/designMode/singleton/test/Singleton8Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designMode/singleton/test/Singleton8Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/entity/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/filter/MyBloomFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/filter/MyBloomFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/blockQueueDemo/BlockQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/blockQueueDemo/BlockQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/casDemo/AtomicReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/casDemo/AtomicReferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/casDemo/AtomicStampedReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/casDemo/AtomicStampedReferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/casDemo/CasABATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/casDemo/CasABATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/casDemo/CasTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/casDemo/CasTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/collectionDemo/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/collectionDemo/ArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/collectionDemo/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/collectionDemo/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/collectionDemo/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/collectionDemo/SetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/lockDemo/BlockQueueProductorAndConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/lockDemo/BlockQueueProductorAndConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/lockDemo/ConditionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/lockDemo/ConditionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/lockDemo/CountDownLatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/lockDemo/CountDownLatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/lockDemo/CyclicBarrierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/lockDemo/CyclicBarrierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/lockDemo/DeadLocKTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/lockDemo/DeadLocKTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/lockDemo/LockProductorAndConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/lockDemo/LockProductorAndConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/lockDemo/LockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/lockDemo/LockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/lockDemo/MySpinLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/lockDemo/MySpinLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/lockDemo/ReadWriteLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/lockDemo/ReadWriteLockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/lockDemo/SemaphoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/lockDemo/SemaphoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/lockDemo/SyncProductorAndConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/lockDemo/SyncProductorAndConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/threadDome/CallbaleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/threadDome/CallbaleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/threadDome/ThreadPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/threadDome/ThreadPoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/volatileDemo/Dome1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/volatileDemo/Dome1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/volatileDemo/Dome2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/volatileDemo/Dome2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/interview/volatileDemo/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/interview/volatileDemo/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/Java5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/date/Java8DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/date/Java8DateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java2/ConstructorRefTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/ConstructorRefTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java2/EmployeeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/EmployeeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java2/MethodRefTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/MethodRefTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java3/StreamAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java3/StreamAPITest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java3/StreamAPITest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java4/Boy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/optional/Boy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java4/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/optional/Girl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/java4/OptionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/optional/OptionalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/lambda/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/lambda/LambdaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/lambda/LambdaTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/lambda/LambdaTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/lambda/LambdaTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/lambda/LambdaTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/lambda/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/lambda/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/proxy/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/proxy/ProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/proxy/StaticProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/proxy/StaticProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/java8/stream/StreamTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/BankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/BankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/CallThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/CallThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/CallableThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/CallableThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/Communication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/Communication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/DeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/DeadLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/LockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/LockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/MyTheadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/MyTheadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/ProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/SynchronizedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/ThreadLocalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/ThreadLocalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/ThreadLocalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/ThreadMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/ThreadMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/ThreadPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/ThreadPoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/ThreadTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/ThreadTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/ThreadTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/ThreadTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/WindowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/WindowTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/juc/thread/WindowTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/juc/thread/WindowTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/jvmLecture/classLoader/MyTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/jvmLecture/classLoader/MyTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/jvmLecture/classLoader/MyTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/jvmLecture/classLoader/MyTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/jvmLecture/classLoader/MyTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/jvmLecture/classLoader/MyTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/jvmLecture/classLoader/MyTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/jvmLecture/classLoader/MyTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/jvmLecture/classLoader/MyTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/jvmLecture/classLoader/MyTest5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guoliang/jvmLecture/classLoader/MyTest6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/jvmLecture/classLoader/MyTest6.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/learning/spring-framework" value="PREVIEW" />
-      </map>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -28,7 +133,69 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e7f10d-ade0-4482-87a2-d0a2d464f904" name="Default Changelist" comment="" />
+      <created>1587298851276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587298851276</updated>
+      <workItem from="1587298852733" duration="1346000" />
+    </task>
+    <task id="LOCAL-00001" summary="类加载修改">
+      <created>1587299514361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587299514361</updated>
+    </task>
+    <task id="LOCAL-00002" summary="删除非必要文件">
+      <created>1587299595080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587299595080</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="类加载修改" />
+    <MESSAGE value="删除非必要文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除非必要文件" />
   </component>
 </project>
