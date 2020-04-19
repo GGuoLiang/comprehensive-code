@@ -1,4 +1,4 @@
-package com.guoliang.test;
+package test;
 
 import java.util.UUID;
 

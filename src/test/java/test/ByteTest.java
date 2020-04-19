@@ -1,6 +1,4 @@
-package com.guoliang.test;
-
-import java.util.Arrays;
+package test;
 
 /**
  * @Author GGuoLiang
