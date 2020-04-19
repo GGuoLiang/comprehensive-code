@@ -28,7 +28,7 @@
 3. sort
 
 ## designMode 设计模式
-1.singleton
+1. singleton
 
 ## juc 并发
 1. thread 线程相关
