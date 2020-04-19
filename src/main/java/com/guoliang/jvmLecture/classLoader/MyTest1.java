@@ -1,4 +1,4 @@
-package com.guoliang.jvmLeture.classLoader;
+package com.guoliang.jvmLecture.classLoader;
 
 public class MyTest1 {
     /**

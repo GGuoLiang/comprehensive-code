@@ -1,4 +1,4 @@
-package com.guoliang.jvmLeture.classLoader;
+package com.guoliang.jvmLecture.classLoader;
 
 /**
  *创建引用类型的数组的 类的初始化
