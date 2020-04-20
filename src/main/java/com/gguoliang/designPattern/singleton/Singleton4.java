@@ -1,4 +1,4 @@
-package com.gguoliang.designMode.singleton;
+package com.gguoliang.designPattern.singleton;
 
 /**
  * @Author GGuoLiang

@@ -1,9 +1,9 @@
-package com.gguoliang.designMode.singleton.test;
+package com.gguoliang.designPattern.singleton.test;
 
-import com.gguoliang.designMode.singleton.Singleton1;
-import com.gguoliang.designMode.singleton.Singleton4;
-import com.gguoliang.designMode.singleton.Singleton5;
-import com.gguoliang.designMode.singleton.Singleton6;
+import com.gguoliang.designPattern.singleton.Singleton1;
+import com.gguoliang.designPattern.singleton.Singleton4;
+import com.gguoliang.designPattern.singleton.Singleton5;
+import com.gguoliang.designPattern.singleton.Singleton6;
 import org.junit.Test;
 
 import java.lang.reflect.Constructor;

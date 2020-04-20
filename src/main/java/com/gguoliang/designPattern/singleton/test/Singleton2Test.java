@@ -1,6 +1,6 @@
-package com.gguoliang.designMode.singleton.test;
+package com.gguoliang.designPattern.singleton.test;
 
-import com.gguoliang.designMode.singleton.Singleton2;
+import com.gguoliang.designPattern.singleton.Singleton2;
 
 import org.junit.Test;
 

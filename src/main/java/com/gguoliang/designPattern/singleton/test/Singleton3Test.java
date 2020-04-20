@@ -1,6 +1,6 @@
-package com.gguoliang.designMode.singleton.test;
+package com.gguoliang.designPattern.singleton.test;
 
-import com.gguoliang.designMode.singleton.Singleton3;
+import com.gguoliang.designPattern.singleton.Singleton3;
 import org.junit.Test;
 
 import java.lang.reflect.Constructor;
@@ -15,7 +15,7 @@ public class Singleton3Test {
     @Test
     public void test1(){
         try {
-            Class.forName("com.gguoliang.designMode.singleton.Singleton3");
+            Class.forName("com.gguoliang.designPattern.singleton.Singleton3");
             Singleton3.getInstance();
 
         }catch (Exception e){
