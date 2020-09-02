@@ -7,6 +7,7 @@ package test;
  */
 public class JsonArrayTest {
 
+
     public static void main(String[] args) {
         String str = "[]";
     }

@@ -36,7 +36,7 @@ import java.util.stream.Stream;
  */
 public class StreamAPITest {
 
-    //创建 Stream方式一：通过集合
+    //创建 Stream方式一：
     @Test
     public void test1(){
         List<Employee> employees = EmployeeData.getEmployees();

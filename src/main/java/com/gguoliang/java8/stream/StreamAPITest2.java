@@ -5,6 +5,7 @@ import com.gguoliang.java8.methodRefe.Employee;
 import com.gguoliang.java8.methodRefe.EmployeeData;
 import org.junit.Test;
 
+import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
@@ -85,8 +86,8 @@ public class StreamAPITest2 {
 //        练习2：计算公司所有员工工资的总和
         List<Employee> employees = EmployeeData.getEmployees();
         Stream<Double> salaryStream = employees.stream().map(Employee::getSalary);
-//        Optional<Double> sumMoney = salaryStream.reduce(Double::sum);
-        Optional<Double> sumMoney = salaryStream.reduce((d1,d2) -> d1 + d2);
+        Optional<Double> sumMoney = salaryStream.reduce(Double::sum);
+       // Optional<Double> sumMoney = salaryStream.reduce((d1,d2) -> d1 + d2);
         System.out.println(sumMoney.get());
 
     }
@@ -106,8 +107,6 @@ public class StreamAPITest2 {
 
         employeeSet.forEach(System.out::println);
 
-
-
-
     }
+
 }

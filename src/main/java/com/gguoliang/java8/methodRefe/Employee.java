@@ -1,5 +1,9 @@
 package com.gguoliang.java8.methodRefe;
 
+import java.lang.reflect.Field;
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * @author shkstart 邮箱：shkstart@126.com
  */
@@ -97,5 +101,24 @@ public class Employee {
 		temp = Double.doubleToLongBits(salary);
 		result = 31 * result + (int) (temp ^ (temp >>> 32));
 		return result;
+	}
+
+
+	public Map<String,Object> toMMap() {
+		Map<String,Object> map = new HashMap<>();
+		Field[] declaredFields = this.getClass().getDeclaredFields();
+		for (Field declaredField : declaredFields) {
+			declaredField.setAccessible(true);
+			try {
+				map.put(declaredField.getName(),declaredField.get(this));
+			} catch (IllegalAccessException e) {
+				e.printStackTrace();
+			}
+		}
+		return map;
+	}
+
+	public Integer getId(String string) {
+		return id;
 	}
 }

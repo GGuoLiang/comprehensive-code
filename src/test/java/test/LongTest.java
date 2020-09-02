@@ -18,7 +18,18 @@ public class LongTest {
         System.out.println(b==a);
         System.out.println(a.equals(b));
 
+    }
 
+    @Test
+    public void test1(){
+        Long l = new Long("20200508134058");
+        System.out.println(l);
+    }
 
+    @Test
+    public void test2(){
+        Integer nums = -1;
+        System.out.println(-nums);
+        System.out.println(0 == -nums);
     }
 }

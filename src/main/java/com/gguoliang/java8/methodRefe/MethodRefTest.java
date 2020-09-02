@@ -45,6 +45,18 @@ public class MethodRefTest {
 		Consumer<String> con2 = ps::println;
 		con2.accept("beijing");
 	}
+
+	@Test
+	public void test11(){
+		Consumer<String> consumer = string -> System.out.println(string);
+		consumer.accept("22222");
+
+		Consumer<String> consumer1 = System.out::println;
+		consumer1.accept("33333");
+		PrintStream out = System.out;
+		Consumer<String> consumer2 = out ::println;
+		consumer1.accept("33333");
+	}
 	
 	//Supplier中的T get()
 	//Employee中的String getName()
@@ -111,6 +123,7 @@ public class MethodRefTest {
 		Comparator<String> com2 = String :: compareTo;
 		System.out.println(com2.compare("abd","abm"));
 	}
+
 
 	//BiPredicate中的boolean test(T t1, T t2);
 	//String中的boolean t1.equals(t2)

@@ -24,12 +24,7 @@ public class ConstructorRefTest {
     @Test
     public void test1(){
 
-        Supplier<Employee> sup = new Supplier<Employee>() {
-            @Override
-            public Employee get() {
-                return new Employee();
-            }
-        };
+        Supplier<Employee> sup = () -> new Employee();
         System.out.println("*******************");
 
         Supplier<Employee>  sup1 = () -> new Employee();
