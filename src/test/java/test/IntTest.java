@@ -14,4 +14,9 @@ public class IntTest {
     public void test(){
         System.out.println((int)Math.random()*10+1);
     }
+
+    @Test
+    public void test1(){
+        System.out.println(1 << 14);
+    }
 }

@@ -2,33 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d3ab2d3-c62f-4463-98b6-b5b4a8300e44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/dataStructures/recursive/MiGong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/dataStructures/stack/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/apple/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/apple/AppleGreenPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/apple/ApplePredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/apple/AppleWeightPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/apple/MeaningOfThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/completablefuture/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/completablefuture/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/Letter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/MethodRefTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/CollectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/IntTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/IntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/TimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/charTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/ConstructorRefTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/ConstructorRefTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/EmployeeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/EmployeeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/MethodRefTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/methodRefe/MethodRefTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/date/LocateDateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/forkjion/ForkJoinSumCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/ParallelStreamTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/JsonArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/JsonArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/LongTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/LongTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/stream/StreamAPITest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/IntTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/IntTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,76 +76,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Letter">
-    <configuration name="Letter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.methodRefe.Letter" />
+  <component name="RunManager" selected="JUnit.LocateDateTest.test7">
+    <configuration name="LocateDateTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comprehensive-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gguoliang.java8.methodRefe.*" />
+          <option name="PATTERN" value="com.gguoliang.java8.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MeaningOfThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.apple.MeaningOfThis" />
-      <module name="comprehensive-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gguoliang.java8.apple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test.Test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="comprehensive-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gguoliang.java8.completablefuture.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.gguoliang.java8.completablefuture" />
-      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.completablefuture.Test" />
-      <option name="METHOD_NAME" value="Test4" />
+      <option name="PACKAGE_NAME" value="com.gguoliang.java8.date" />
+      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.date.LocateDateTest" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.Test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LocateDateTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comprehensive-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gguoliang.java8.completablefuture.*" />
+          <option name="PATTERN" value="com.gguoliang.java8.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.gguoliang.java8.completablefuture" />
-      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.completablefuture.Test" />
-      <option name="METHOD_NAME" value="Test5" />
+      <option name="PACKAGE_NAME" value="com.gguoliang.java8.date" />
+      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.date.LocateDateTest" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.Test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LocateDateTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comprehensive-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gguoliang.java8.completablefuture.*" />
+          <option name="PATTERN" value="com.gguoliang.java8.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.gguoliang.java8.completablefuture" />
-      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.completablefuture.Test" />
-      <option name="METHOD_NAME" value="Test6" />
+      <option name="PACKAGE_NAME" value="com.gguoliang.java8.date" />
+      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.date.LocateDateTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocateDateTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comprehensive-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gguoliang.java8.date.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gguoliang.java8.date" />
+      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.date.LocateDateTest" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocateDateTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comprehensive-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gguoliang.java8.date.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gguoliang.java8.date" />
+      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.date.LocateDateTest" />
+      <option name="METHOD_NAME" value="test7" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -171,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Letter" />
-        <item itemvalue="Application.MeaningOfThis" />
-        <item itemvalue="JUnit.Test.Test6" />
-        <item itemvalue="JUnit.Test.Test5" />
-        <item itemvalue="JUnit.Test.Test4" />
+        <item itemvalue="JUnit.LocateDateTest.test7" />
+        <item itemvalue="JUnit.LocateDateTest.test6" />
+        <item itemvalue="JUnit.LocateDateTest.test2" />
+        <item itemvalue="JUnit.LocateDateTest.test3" />
+        <item itemvalue="JUnit.LocateDateTest.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +213,8 @@
       <workItem from="1598446767724" duration="241000" />
       <workItem from="1598690667819" duration="63000" />
       <workItem from="1598913258885" duration="2908000" />
-      <workItem from="1598924934751" duration="12100000" />
+      <workItem from="1598924934751" duration="27126000" />
+      <workItem from="1599383842252" duration="5102000" />
     </task>
     <task id="LOCAL-00001" summary="俩数之和、有效字符串">
       <created>1588239225498</created>
@@ -285,6 +274,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/test/ListTest.java</url>
           <line>18</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gguoliang/java8/forkjion/ForkJoinSumCalculator.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

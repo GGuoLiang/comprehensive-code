@@ -5,6 +5,10 @@ import com.gguoliang.java8.methodRefe.Employee;
 import com.gguoliang.java8.methodRefe.EmployeeData;
 import org.junit.Test;
 
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
@@ -86,4 +90,22 @@ public class StreamAPITest {
 
     }
 
+
+    @Test
+    public void test5(){
+        // 文件流
+       try ( Stream<String> lines = Files.lines(Paths.get("/comprehensive-code/aaaa.txt"))){
+           lines.flatMap(string -> Arrays.stream(string.split(" "))).forEach(System.out::println);
+
+       } catch (IOException e) {
+           e.printStackTrace();
+       }
+
+    }
+
+    @Test
+    public void test6(){
+        Stream.iterate(0,n -> n+2).limit(5).forEach(System.out::println);
+        Stream.generate(Math::random).limit(10).forEach(System.out::println);
+    }
 }

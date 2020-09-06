@@ -8,6 +8,7 @@ import org.junit.Test;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
@@ -26,6 +27,7 @@ public class StreamAPITest1 {
         Stream<Employee> stream = list.stream();
         //练习：查询员工表中薪资大于7000的员工信息
         stream.filter(e -> e.getSalary() > 7000).forEach(System.out::println);
+
 
         System.out.println();
 //        limit(n)——截断流，使其元素不超过给定数量。
@@ -66,7 +68,7 @@ public class StreamAPITest1 {
         streamStream.forEach(s ->{
             s.forEach(System.out::println);
         });
-        System.out.println();
+        System.out.println("flatMap");
 //        flatMap(Function f)——接收一个函数作为参数，将流中的每个值都换成另一个流，然后把所有流连接成一个流。
         Stream<Character> characterStream = list.stream().flatMap(StreamAPITest1::fromStringToStream);
         characterStream.forEach(System.out::println);
@@ -129,4 +131,15 @@ public class StreamAPITest1 {
         }).forEach(System.out::println);
     }
 
+
+
+    @Test
+    public void test6(){
+        Stream<String> stringStream = Stream.of("aaaaa", "vvvvv", "dddddd", "avd");
+        List<String> collect = stringStream
+                .map(string -> string.split(""))
+                .flatMap(Arrays::stream).collect(Collectors.toList());
+        System.out.println(collect);
+
+    }
 }
