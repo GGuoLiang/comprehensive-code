@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d3ab2d3-c62f-4463-98b6-b5b4a8300e44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/completablefuture/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/java8/completablefuture/AppleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/DomeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/factory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/factory/ProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/product/CatProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/product/DogProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/SocialSpammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/iterators/FacebookIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/iterators/LinkedInIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/iterators/ProfileIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/social_networks/Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/social_networks/LinkedIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/social_networks/SocialNetwork.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,19 +82,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppleTest.handle">
-    <configuration name="AppleTest.acceptEither" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DomeTest">
+    <configuration name="DomeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gguoliang.designPattern.factorymethod.DomeTest" />
       <module name="comprehensive-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gguoliang.java8.completablefuture.*" />
+          <option name="PATTERN" value="com.gguoliang.designPattern.factorymethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.gguoliang.java8.completablefuture" />
-      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.completablefuture.AppleTest" />
-      <option name="METHOD_NAME" value="acceptEither" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DomeTest" />
         <item itemvalue="JUnit.AppleTest.handle" />
         <item itemvalue="JUnit.AppleTest.whenComplete" />
         <item itemvalue="JUnit.AppleTest.exceptionally" />
         <item itemvalue="JUnit.AppleTest.runAfterEither" />
-        <item itemvalue="JUnit.AppleTest.acceptEither" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +218,8 @@
       <workItem from="1598913258885" duration="2908000" />
       <workItem from="1598924934751" duration="27126000" />
       <workItem from="1599383842252" duration="6293000" />
-      <workItem from="1599530949974" duration="10610000" />
+      <workItem from="1599530949974" duration="10954000" />
+      <workItem from="1599692435577" duration="5586000" />
     </task>
     <task id="LOCAL-00001" summary="俩数之和、有效字符串">
       <created>1588239225498</created>
