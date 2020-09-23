@@ -17,6 +17,6 @@ public class IntTest {
 
     @Test
     public void test1(){
-        System.out.println(1 << 14);
+        System.out.println(1 << 16);
     }
 }

@@ -2,21 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d3ab2d3-c62f-4463-98b6-b5b4a8300e44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/DomeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/factory/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/factory/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/product/CatProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/product/DogProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/SocialSpammer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/iterators/FacebookIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/iterators/LinkedInIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/iterators/ProfileIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/social_networks/Facebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/social_networks/LinkedIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/iterator/social_networks/SocialNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/algorithm/leetcode/Solution6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/OrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/example1/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/example1/BenQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/example1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/example1/CarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/example1/GeneralMotors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/example1/Parts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/factory/AbstractFoactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/factory/BjFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/factory/ShFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/pizza/BjCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/pizza/BjGreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/pizza/ShCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/pizza/ShGreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/order/BjOrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/order/OrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/order/ShOrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/pizza/BjCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/pizza/BjGreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/pizza/ShCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/pizza/ShGreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/jdksrc/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/principle/singleresponsibility/AirVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/principle/singleresponsibility/RoadVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/principle/singleresponsibility/SingleResponsibility1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/principle/singleresponsibility/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/principle/singleresponsibility/WaterVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/simpleFactory/OrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/simpleFactory/factory/SimplePizzaFoctory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/simpleFactory/pizza/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/simpleFactory/pizza/GreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/simpleFactory/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/DebugTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/forTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/IntTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/IntTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TimeTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +50,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="221" />
+    <option name="myElementSize" value="237" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="comprehensive-code" />
@@ -62,13 +87,19 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/ebei/workspace3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/pizza" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/pizza" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/factorymethod/pizza" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,13 +113,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DomeTest">
-    <configuration name="DomeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gguoliang.designPattern.factorymethod.DomeTest" />
+  <component name="RunManager" selected="Application.Factory">
+    <configuration name="Factory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gguoliang.designPattern.jdksrc.Factory" />
       <module name="comprehensive-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gguoliang.designPattern.factorymethod.*" />
+          <option name="PATTERN" value="com.gguoliang.designPattern.jdksrc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,65 +127,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppleTest.exceptionally" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderPizza (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gguoliang.designPattern.abstractFactory.OrderPizza" />
       <module name="comprehensive-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gguoliang.java8.completablefuture.*" />
+          <option name="PATTERN" value="com.gguoliang.designPattern.abstractFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.gguoliang.java8.completablefuture" />
-      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.completablefuture.AppleTest" />
-      <option name="METHOD_NAME" value="exceptionally" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppleTest.handle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gguoliang.designPattern.simpleFactory.OrderPizza" />
       <module name="comprehensive-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gguoliang.java8.completablefuture.*" />
+          <option name="PATTERN" value="com.gguoliang.designPattern.simpleFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.gguoliang.java8.completablefuture" />
-      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.completablefuture.AppleTest" />
-      <option name="METHOD_NAME" value="handle" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppleTest.runAfterEither" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShOrderPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gguoliang.designPattern.factorymethod.order.ShOrderPizza" />
       <module name="comprehensive-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gguoliang.java8.completablefuture.*" />
+          <option name="PATTERN" value="com.gguoliang.designPattern.factorymethod.order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.gguoliang.java8.completablefuture" />
-      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.completablefuture.AppleTest" />
-      <option name="METHOD_NAME" value="runAfterEither" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppleTest.whenComplete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SingleResponsibility1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comprehensive-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gguoliang.java8.completablefuture.*" />
+          <option name="PATTERN" value="com.gguoliang.designPattern.principle.singleresponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.gguoliang.java8.completablefuture" />
-      <option name="MAIN_CLASS_NAME" value="com.gguoliang.java8.completablefuture.AppleTest" />
-      <option name="METHOD_NAME" value="whenComplete" />
+      <option name="PACKAGE_NAME" value="com.gguoliang.designPattern.principle.singleresponsibility" />
+      <option name="MAIN_CLASS_NAME" value="com.gguoliang.designPattern.principle.singleresponsibility.SingleResponsibility1" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DomeTest" />
-        <item itemvalue="JUnit.AppleTest.handle" />
-        <item itemvalue="JUnit.AppleTest.whenComplete" />
-        <item itemvalue="JUnit.AppleTest.exceptionally" />
-        <item itemvalue="JUnit.AppleTest.runAfterEither" />
+        <item itemvalue="Application.Factory" />
+        <item itemvalue="Application.OrderPizza (1)" />
+        <item itemvalue="Application.ShOrderPizza" />
+        <item itemvalue="Application.OrderPizza" />
+        <item itemvalue="JUnit.SingleResponsibility1.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +241,11 @@
       <workItem from="1598924934751" duration="27126000" />
       <workItem from="1599383842252" duration="6293000" />
       <workItem from="1599530949974" duration="10954000" />
-      <workItem from="1599692435577" duration="5586000" />
+      <workItem from="1599692435577" duration="5821000" />
+      <workItem from="1600070561177" duration="2293000" />
+      <workItem from="1600330160807" duration="1272000" />
+      <workItem from="1600347263346" duration="5857000" />
+      <workItem from="1600669530692" duration="6289000" />
     </task>
     <task id="LOCAL-00001" summary="俩数之和、有效字符串">
       <created>1588239225498</created>
@@ -285,12 +311,45 @@
           <line>65</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gguoliang/designPattern/abstractFactory/example1/CarType.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i==3" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/test/java/test/forTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/DebugTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/DebugTest.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <condition expression="22222" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/test/java/test/DebugTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/comprehensive_code$IntegerTest.ic" NAME="IntegerTest Coverage Results" MODIFIED="1594293217352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/comprehensive_code$OrderPizza.ic" NAME="OrderPizza Coverage Results" MODIFIED="1600842478147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.gguoliang.designPattern.simpleFactory.*</FILTER>
     </SUITE>
   </component>
 </project>

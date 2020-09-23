@@ -3,6 +3,7 @@ package test;
 import org.junit.Test;
 
 import java.sql.Timestamp;
+import java.util.Random;
 
 /**
  * @Author GGuoLiang
@@ -13,7 +14,9 @@ public class TimeTest {
 
     @Test
     public void Test(){
-        Timestamp timestamp = new Timestamp(System.currentTimeMillis());
-        System.out.println(timestamp);
+        /*Timestamp timestamp = new Timestamp(System.currentTimeMillis());
+        System.out.println(timestamp);*/
+
+        System.out.println(new Random().nextInt());
     }
 }
