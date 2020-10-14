@@ -31,4 +31,17 @@ public class StringTest {
 
         System.out.println( MessageFormat.format(cont,"1111"));*/
     }
+
+
+    public static void main(String[] args) {
+        String abc = null;
+        getStr(abc);
+        System.out.println(abc);
+    }
+
+
+    public static int getStr(String string){
+        string = 12345+"qqq";
+        return 0;
+    }
 }
