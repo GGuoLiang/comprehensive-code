@@ -9,6 +9,14 @@ public class JsonArrayTest {
 
 
     public static void main(String[] args) {
+
         String str = "[]";
+
+        str = "{\"nihao\":\"kkk\",\n" +
+                "  " +
+                "\"nihao11\":\"kkkk\"}\n";
+
+
+
     }
 }

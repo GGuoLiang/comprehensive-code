@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 public class MapTest {
 
     public static void main(String[] args) {
-        List<Map<String,Object>> list = new ArrayList<>(16);
+       /* List<Map<String,Object>> list = new ArrayList<>(16);
         for (int i = 0; i < 10; i++) {
             Map<String,Object> map = new HashMap<>(16);
             map.put("key1", UUID.randomUUID());
@@ -27,7 +27,16 @@ public class MapTest {
         }).collect(Collectors.toList());
 
         System.out.println(key1);
-        System.out.println(list);
+        System.out.println(list);*/
+
+        Map<String,Object> map = new HashMap<>(16);
+        map.put("key1", UUID.randomUUID());
+        map.put("key2",UUID.randomUUID());
+        map.forEach((k,v) ->{
+            v = 111;
+            map.put(k,v);
+        });
+        System.out.println(map);
 
     }
 }

@@ -40,9 +40,10 @@ public class BigDecimalTest {
         System.out.println(list);*/
         NumberFormat percent = NumberFormat.getPercentInstance();
         percent.setMaximumFractionDigits(2);
-        BigDecimal a = new  BigDecimal("1");
-        BigDecimal b = new  BigDecimal("0");
+        BigDecimal a = new  BigDecimal("7");
+        BigDecimal b = new  BigDecimal("2");
         System.out.println(percent.format(b.divide(a,4,BigDecimal.ROUND_HALF_UP).doubleValue()));
+        System.out.println(b.toString());
 
     }
 }

@@ -22,4 +22,8 @@ public class Boy {
     public Boy(int no) {
         this.no = no;
     }
+
+    public Boy() {
+
+    }
 }
